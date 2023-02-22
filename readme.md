@@ -3,7 +3,7 @@
 We are team of professional validators (3 employee-Devops, Security Engineer, QA Testing ).Working like a validators since the end of 2019 and participated more than 200 testnets. Now we have next mainnet nodes : 
 * XX newtork: https://dashboard.xx.network/nodes/QzshZ2J4odkQ2np-FWs2Zb4aum4eMJkWKSKFZgmD4y0C
 * NYM: https://mixnet.explorers.guru/mixnode/AVrtD3Gj7s8ZqEfAwRZmoLNqCuamQdeEJJ2QXqbbWECd
-* MINA: https://minaexplorer.com/wallet/B62qqhZioGPLYePnwCFUqQd7WoHu3TTmZVAvwoh61xnC6VcWNqLMsCp
+* MINA: https://minascan.io/mainnet/validator/B62qqhZioGPLYePnwCFUqQd7WoHu3TTmZVAvwoh61xnC6VcWNqLMsCp/delegations
 * CERTIK: https://www.mintscan.io/shentu/validators/certikvaloper19vrsjqgtyucv6eqekjcwvlqdqekxm299aqtxdf
 * ETH 2:0 archive node
 * TheGraph Indexer: https://thegraph.com/explorer/profile/0x0135e17621dbf2db1f6cec76f60841bc0a2d6fe7?view=Indexing&chain=mainnet
